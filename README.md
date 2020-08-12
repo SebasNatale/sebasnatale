@@ -1,2 +1,2 @@
-[![CV](/MyCV.png)]
+![CV](/MyCV.png)
 xd
