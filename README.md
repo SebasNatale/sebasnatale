@@ -1,2 +1,1 @@
 ![CV](/MyCV.png)
-xd
