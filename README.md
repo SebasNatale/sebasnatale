@@ -1,1 +1,1 @@
-![CV](./MyCV.png)
+![CV](sebasnatale/MyCV.png)
