@@ -1,1 +1,1 @@
-![CV](https://github.com/SebasNatale/sebasnatale/blob/master/MyCV.png)
+![CV](https://github.com/SebasNatale/sebasnatale/blob/master/updated_cv.png)
